@@ -1,0 +1,8 @@
+{
+  "appId": "com.realmconquest.game",
+  "appName": "Realm Conquest",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
